@@ -4,10 +4,11 @@
 > *[Pellet extruder integration into Volterra]*
 
 ### 1.2 Description
-> *Install a pellet extruder into Volterra 3D printer by integrating the electronics as well as optimizing mechatronics.*
+> *Install a pellet extruder into the Volterra 400 3D printer by integrating the electronics and optimizing mechatronics.*
 
 ### 1.3 Goals & Objectives
-- *List the high-level objectives and expected outcomes.*
+- *Design the carriage for installing the pellet extruder.*
+- *Install the bed leveling module on the lower bed.*
 
 ### 1.4 Key Features
 - *Outline the main functionalities and design goals.*
